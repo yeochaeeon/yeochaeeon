@@ -1,3 +1,7 @@
+<!--<div align= "start">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d2ff80,100:a3edff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
+</div>-->
+    
 ### Hi there 👋
 
 Here are some ideas to get you started:
@@ -23,9 +27,10 @@ Here are some ideas to get you started:
     </div>
     <div style="text-align: left;"> 
       <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2> 
-      <div align= "center" > 
+      <div align= "center"> 
     <!-- <img src="https://github-readme-stats.vercel.app/api?username=yeochaeeon&bg_color=180,242424,00000000&title_color=e5ff61&text_color=e5ff61"/>-->
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeochaeeon&layout=compact&bg_color=180,242424,00000000&title_color=FFFFFF&text_color=FFFFFF" style="height:200px"/>          
   </div> 
     </div>
+    
     

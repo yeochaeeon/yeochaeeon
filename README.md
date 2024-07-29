@@ -6,6 +6,7 @@
 ##  👩‍💻 About Me
 - 🏫 I'm an Undergraduate Student majoring in ***Computer Science and Engineering***.
 - 🔐 I'm a member of the information security club of PNU, [***Keeper***](https://keeper.or.kr/).
+- 🤓 Currently I'm Studying ***DataStructures*** and ***Algorithms***! 👀
   
 <br>
 

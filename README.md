@@ -2,13 +2,13 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:d2ff80,100:a3edff&height=120&text=&animation=&fontColor=000000&fontSize=70" />
 </div>-->
     
-# Hi there👋 I'm Chaeeon!
 ##  👩‍💻 About Me
-- 🏫 I'm an Undergraduate Student majoring in ***Computer Science and Engineering***.
+- 🏫 Undergraduate Student majoring in ***Computer Science and Engineering***.
+- 👩🏻‍💻 
+<!-- 
 - 🔐 I'm a member of the information security club of PNU, [***Keeper***](https://keeper.or.kr/).
-- 🤓 Currently I'm Studying ***DataStructures*** and ***Algorithms***! 👀
+- 🤓 Currently I'm Studying ***DataStructures*** and ***Algorithms***! 👀 -->
   
-
 
 ## ⚡Tech Stacks⚡
 
